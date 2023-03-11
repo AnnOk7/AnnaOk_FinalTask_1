@@ -7,6 +7,7 @@ Console.Clear();
 
 string[] array1 = new string[4] {"1234", "2567", "-2", "computer science"};
 string[] array2 = new string[array1.Length];
+int count = 0;
 
 void SecondArray(string[] array1, string[] array2)
 {

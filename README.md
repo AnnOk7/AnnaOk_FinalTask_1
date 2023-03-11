@@ -7,4 +7,6 @@ That's my first final task.
 Далее метод PrintArray, который "печатает" на экран результат.
 
 Графическое представление решение задачи см. ниже
+
+
 ![Image alt](https://github.com/AnnOk7/AnnaOk_FinalTask_1/blob/main/FinalDiagram.png)
